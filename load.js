@@ -51,7 +51,7 @@ const sls = [
     },
 
     {
-        topic : "Binary binary weighted d/a converter (হিন্দি)",
+        topic : "Binary weighted d/a converter (হিন্দি)",
         link : "https://www.youtube.com/embed/Xjub9-TeXM4",
     },
 ]

@@ -17,7 +17,43 @@ const sls = [
     {
         topic : "Right Shift Register (বাংলা)",
         link : "https://www.youtube.com/embed/GQ6z0A2uf4c",
-    }
+    },
+
+
+    {
+        topic : "Ripple Up Counter (বাংলা)",
+        link : "https://www.youtube.com/embed/dDC-bKhiP8Y",
+    },
+
+    {
+        topic : "Ripple Down Counter (বাংলা)",
+        link : "https://www.youtube.com/embed/QT1grT7pDSQ",
+    },
+
+    {
+        topic : "Synchronous Counter (বাংলা)",
+        link : "https://www.youtube.com/embed/abK92FbjDpQ",
+    },
+
+    {
+        topic : "Ring Counter (বাংলা)",
+        link : "https://www.youtube.com/embed/fECqK99Ez4E",
+    },
+
+    {
+        topic : "2 Bit Comparator (হিন্দি)",
+        link : "https://www.youtube.com/embed/wdHujL8ag_s",
+    },
+
+    {
+        topic : "Binary Rate Mutiplier (বাংলা)",
+        link : "https://www.youtube.com/embed/gAFCGTXLfA8",
+    },
+
+    {
+        topic : "Binary binary weighted d/a converter (হিন্দি)",
+        link : "https://www.youtube.com/embed/Xjub9-TeXM4",
+    },
 ]
 
 

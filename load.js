@@ -54,6 +54,11 @@ const sls = [
         topic : "Binary weighted d/a converter (হিন্দি)",
         link : "https://www.youtube.com/embed/Xjub9-TeXM4",
     },
+
+    {
+        topic : "R/2R Ladder d/a converter (হিন্দি)",
+        link : "https://www.youtube.com/embed/v0RiPY-cDUw",
+    },
 ]
 
 

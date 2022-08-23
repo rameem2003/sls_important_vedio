@@ -59,6 +59,17 @@ const sls = [
         topic : "R/2R Ladder d/a converter (হিন্দি)",
         link : "https://www.youtube.com/embed/v0RiPY-cDUw",
     },
+
+
+    {
+        topic : "3 Bit Parallel A/D Converter (বাংলা)",
+        link : "https://www.youtube.com/embed/lgwofqrcCCc",
+    },
+
+    {
+        topic : "Successive Approximation A/D Converter (বাংলা)",
+        link : "https://www.youtube.com/embed/G_FjoqyHaKo",
+    },
 ]
 
 
